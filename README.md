@@ -1,0 +1,2 @@
+# DingzhenVoice
+基于Flutter的让你随时随地溜相关名作与经典语录的APP，内嵌了使用丁真语言模型的网页
